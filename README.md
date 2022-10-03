@@ -4,4 +4,4 @@ DonorsChoose.org receives hundreds of thousands of proposals each year for class
 
 
 
-Acknowledgment: AAI course
+Acknowledgment: AAI
